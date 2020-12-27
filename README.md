@@ -48,7 +48,7 @@ Creating a virtual python environment dedicated for this application is strongly
 
 2. Clone this repository and confirm if virtual env is activated.
 
-        $ git clone https://github.com/Dhruvil-Gajjar/My-Project.git 
+        $ git clone https://github.com/Dhruvil-Gajjar/Employe-Management-Backend.git
         $ cd crud
         $ python --version
         Python 3.8
