@@ -49,7 +49,7 @@ Creating a virtual python environment dedicated for this application is strongly
 2. Clone this repository and confirm if virtual env is activated.
 
         $ git clone https://github.com/Dhruvil-Gajjar/Employe-Management-Backend.git
-        $ cd crud
+        $ cd DjangoAPI
         $ python --version
         Python 3.8
 
