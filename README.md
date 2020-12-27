@@ -1,5 +1,5 @@
 # Employe-Management-Backend
-Its Employee management backend.. build with python django.
+Its an Employee management backend.. build with python django.
 
 ### Instructions
 Follow step by step instruction below to setup Employee Management-Project django application in local (linux based OS).
