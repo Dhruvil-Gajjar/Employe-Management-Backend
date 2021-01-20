@@ -68,7 +68,7 @@ Creating a virtual python environment dedicated for this application is strongly
 
 7. Postman
 
-        https://www.getpostman.com/collections/2b41b28b6c07b4d62e13     
+        https://documenter.getpostman.com/view/13435226/TVzYfDqf     
 
 - Import this link in postman.. to test api.
 
